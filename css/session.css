@@ -12,22 +12,22 @@
 
 .session__card:nth-child(1) {
   background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url("/assets/body.jpg");
+    url("/assets/aero10.jpg");
 }
 
 .session__card:nth-child(2) {
   background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url("/assets/cardio.jpg");
+    url("/assets/aero.png");
 }
 
 .session__card:nth-child(3) {
   background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url("/assets/header2.jpg");
+    url("/assets/stomach2.jpg");
 }
 
 .session__card:nth-child(4) {
   background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url("/assets/walk2.jpeg");
+    url("/assets/walk10\ \(1\).png");
 }
 
 .session__card h4 {

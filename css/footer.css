@@ -96,3 +96,17 @@
   color: var(--text-light);
   text-align: center;
 }
+
+.footer__bar a {
+  display: inline;
+  color: var(--text-light);
+  padding: 0; /* Ensure no extra padding */
+  margin: 0;  /* Ensure no extra margin */
+  text-decoration: none; /* Optional: Remove underline */
+}
+
+
+.footer__bar a:hover {
+  color: var(--primary-color); /* Change to primary color on hover */
+}
+
